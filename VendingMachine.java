@@ -1,9 +1,5 @@
 /*
-	CS421 Computer Networks Programming Assignment I
-	Dr. Cem Tekin
-	Due: 03-13-2016, Sunday
-	Özgür Öney 21101821
-	Mert Ege Şener 21100947
+	Özgür Öney
 	Client-server based, Java implemented program that simulates a vending machine scenario. 
 */
 import java.io.*;
